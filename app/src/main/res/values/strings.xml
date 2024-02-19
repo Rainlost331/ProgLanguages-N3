@@ -22,5 +22,9 @@
     <string name="container_scaffold">контейнер Scaffold</string>
     <string name="menu">menu Scaffold</string>
     <string name="my_compose_app">MyComposeApp Scaffold</string>
+    <string name="android">Чето написать сюда</string>
+    <string name="kotlin">Чето написать сюда</string>
+    <string name="swift">Чето написать сюда</string>
+    <string name="ios">Чето написать сюда</string>
 
 </resources>
