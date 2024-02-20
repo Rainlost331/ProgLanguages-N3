@@ -15,12 +15,12 @@ private val items = listOf(
     BookCategory(
         R.string.android,
         listOf(
-            R.drawable.android_aprentice,
-            R.drawable.saving_data_android,
-            R.drawable.advanced_architecture_android
+            R.drawable.eft_background,
+            R.drawable.eft_loading_screen,
+            R.drawable.gachi
         )
     ),
-    BookCategory(
+    /*BookCategory(
         R.string.kotlin,
         listOf(
             R.drawable.kotlin_coroutines,
@@ -41,7 +41,7 @@ private val items = listOf(
             R.drawable.core_data,
             R.drawable.ios_apprentice
         )
-    )
+    )*/
 )
 
 @Composable
