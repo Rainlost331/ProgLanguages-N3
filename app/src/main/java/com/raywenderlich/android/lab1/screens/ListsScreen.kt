@@ -49,13 +49,13 @@ private val items = listOf(
             R.drawable.sbey_p90
         )
     ),
-    /*BookCategory(
-        R.string.ios,
+    BookCategory(
+        R.string.eft_memes,
         listOf(
-            R.drawable.core_data,
-            R.drawable.ios_apprentice
+            R.drawable.card_meme,
+            R.drawable.gachi_mem
         )
-    )*/
+    )
 )
 
 @Composable
